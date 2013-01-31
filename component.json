@@ -1,0 +1,8 @@
+{
+  "name": "events",
+  "repo": "mteam/events",
+  "version": "0.1.0",
+  "scripts": [
+    "index.js"
+  ]
+}
